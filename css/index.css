@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Arial;
+}
+
+.active_link {
+    border-bottom: 2px solid white;
+}
+
+.front-page {
+    position: relative;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.data_container{
+    position:relative;
+    width:100%;
+    height:100vh;
+    color:white;
+
+}
