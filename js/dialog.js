@@ -1,7 +1,9 @@
 
-console.log('portfolio....')
+consoleText([
+  'Hello, I am Suraj Singh.',
+  'I am a Python Developer.',
+], 'text', ['black', 'black']);
 
- consoleText(['Hello I am suraj singh.', 'I am python developer',], 'text',['yellow','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
